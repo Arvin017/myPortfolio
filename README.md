@@ -32,11 +32,6 @@ I work with **Java and the MERN stack**, and I enjoy turning ideas into real-wor
 
 ---
 
-## 📸 Preview
-
-![Portfolio Preview](https://via.placeholder.com/1200x600?text=Portfolio+Preview)
-
----
 
 ## 🚀 Deployment
 
